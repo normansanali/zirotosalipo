@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zirotosalipo.pages.dev/sitemap.xml
